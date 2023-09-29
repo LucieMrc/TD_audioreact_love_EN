@@ -76,4 +76,3 @@ We therefore have a full-sized image wih the frequencies in colors depending of 
 
  ![screen de Touch](./images/gif3.gif)
  *The moment where the sound is moving in the stereo panning in "Ridin" of Cordon, where we can see the frequencies going from green to red to green.*
-# TD_audioreact_love_EN
