@@ -10,7 +10,7 @@ We can open a sound file with an `Audio File In` CHOP, or listen to the sound fr
 
 If we want to listen to music from Youtube or Spotify or whatever, we need to install another software that will allow us to create a virtual audio cable in the computer, so the sound can go in TouchDesigner instead of out of the speakers.
 
-## Sound to visual
+## Spectre sonore en visuel
 
  There is a thousand ways to generate visuals with sound. My favorite way at the moment it to do it with the frequencies spectrum.
 
@@ -42,6 +42,22 @@ We therefore have a full-sized image wih the frequencies in colors depending of 
 
  ![screen de Touch](./images/gif3.gif)
  *The moment where the sound is moving in the stereo panning in "Ridin" of Cordon, where we can see the frequencies going from green to red to green.*
+
+ ## Analyse audio dans Touchdesigner
+
+ TouchDesigner a un node dédié à l'analyse audio, mais la qualité de l'analyse varie énormément en fonction des sons.
+
+ ![screen de Touch](./images/gif4.gif)
+*"Doudou" de Aya Nakamura* 
+
+Dans le dossier "Tools" de la Palette, on récupère le node `audioAnalysis`.
+![screen de Config audio et MIDI](./images/screen9.png)
+
+blablbla tous les paramètres
+![screen de Config audio et MIDI](./images/screen10.png)
+
+blabla les sorties
+![screen de Config audio et MIDI](./images/screen11.png)
 
 ### Virtual audio cable audio in mac OS
 I personally use [BlackHole](https://existential.audio/blackhole/) with Mac.
